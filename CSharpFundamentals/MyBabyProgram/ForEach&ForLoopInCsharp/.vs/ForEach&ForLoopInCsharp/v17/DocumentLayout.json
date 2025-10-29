@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpFundamentals\\MyBabyProgram\\ForEach\u0026ForLoopInCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B681FC8-E796-4781-B6AF-A647BB724D6D}|ForEach\u0026ForLoopInCsharp\\ForEach\u0026ForLoopInCsharp.csproj|d:\\csharpfundamentals\\mybabyprogram\\foreach\u0026forloopincsharp\\foreach\u0026forloopincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B681FC8-E796-4781-B6AF-A647BB724D6D}|ForEach\u0026ForLoopInCsharp\\ForEach\u0026ForLoopInCsharp.csproj|solutionrelative:foreach\u0026forloopincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpFundamentals\\MyBabyProgram\\ForEach\u0026ForLoopInCsharp\\ForEach\u0026ForLoopInCsharp\\Program.cs",
+              "RelativeDocumentMoniker": "ForEach\u0026ForLoopInCsharp\\Program.cs",
+              "ToolTip": "D:\\CSharpFundamentals\\MyBabyProgram\\ForEach\u0026ForLoopInCsharp\\ForEach\u0026ForLoopInCsharp\\Program.cs",
+              "RelativeToolTip": "ForEach\u0026ForLoopInCsharp\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwDcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:33:15.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

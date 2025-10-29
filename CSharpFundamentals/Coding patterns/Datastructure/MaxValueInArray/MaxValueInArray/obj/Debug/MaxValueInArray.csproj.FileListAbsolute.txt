@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\Coding patterns\Datastructure\MaxValueInArray\MaxValueInArray\bin\Debug\MaxValueInArray.exe.config
+D:\CSharpFundamentals\Coding patterns\Datastructure\MaxValueInArray\MaxValueInArray\bin\Debug\MaxValueInArray.exe
+D:\CSharpFundamentals\Coding patterns\Datastructure\MaxValueInArray\MaxValueInArray\bin\Debug\MaxValueInArray.pdb
+D:\CSharpFundamentals\Coding patterns\Datastructure\MaxValueInArray\MaxValueInArray\obj\Debug\MaxValueInArray.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\Coding patterns\Datastructure\MaxValueInArray\MaxValueInArray\obj\Debug\MaxValueInArray.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\Coding patterns\Datastructure\MaxValueInArray\MaxValueInArray\obj\Debug\MaxValueInArray.exe
+D:\CSharpFundamentals\Coding patterns\Datastructure\MaxValueInArray\MaxValueInArray\obj\Debug\MaxValueInArray.pdb

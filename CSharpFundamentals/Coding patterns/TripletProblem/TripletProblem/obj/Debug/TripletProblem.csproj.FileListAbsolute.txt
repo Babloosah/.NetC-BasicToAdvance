@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\Coding patterns\TripletProblem\TripletProblem\bin\Debug\TripletProblem.exe.config
+D:\CSharpFundamentals\Coding patterns\TripletProblem\TripletProblem\bin\Debug\TripletProblem.exe
+D:\CSharpFundamentals\Coding patterns\TripletProblem\TripletProblem\bin\Debug\TripletProblem.pdb
+D:\CSharpFundamentals\Coding patterns\TripletProblem\TripletProblem\obj\Debug\TripletProblem.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\Coding patterns\TripletProblem\TripletProblem\obj\Debug\TripletProblem.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\Coding patterns\TripletProblem\TripletProblem\obj\Debug\TripletProblem.exe
+D:\CSharpFundamentals\Coding patterns\TripletProblem\TripletProblem\obj\Debug\TripletProblem.pdb

@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\ExceptionAbuseInCsharp\ExceptionAbuseInCsharp\bin\Debug\ExceptionAbuseInCsharp.exe.config
+D:\CSharpFundamentals\MyBabyProgram\ExceptionAbuseInCsharp\ExceptionAbuseInCsharp\bin\Debug\ExceptionAbuseInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\ExceptionAbuseInCsharp\ExceptionAbuseInCsharp\bin\Debug\ExceptionAbuseInCsharp.pdb
+D:\CSharpFundamentals\MyBabyProgram\ExceptionAbuseInCsharp\ExceptionAbuseInCsharp\obj\Debug\ExceptionAbuseInCsharp.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\ExceptionAbuseInCsharp\ExceptionAbuseInCsharp\obj\Debug\ExceptionAbuseInCsharp.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\ExceptionAbuseInCsharp\ExceptionAbuseInCsharp\obj\Debug\ExceptionAbuseInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\ExceptionAbuseInCsharp\ExceptionAbuseInCsharp\obj\Debug\ExceptionAbuseInCsharp.pdb

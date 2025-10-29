@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\IntroductionToCsharp.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\IntroductionToCsharp.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\IntroductionToCsharp.exe.config
+D:\CSharpFundamentals\MyBabyProgram\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\IntroductionToCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\IntroductionToCsharp.pdb
+D:\CSharpFundamentals\MyBabyProgram\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\IntroductionToCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\IntroductionToCsharp.pdb

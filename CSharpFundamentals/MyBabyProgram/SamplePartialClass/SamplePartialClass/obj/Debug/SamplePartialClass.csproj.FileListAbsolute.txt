@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\SamplePartialClass\SamplePartialClass\bin\Debug\SamplePartialClass.exe.config
+D:\CSharpFundamentals\MyBabyProgram\SamplePartialClass\SamplePartialClass\bin\Debug\SamplePartialClass.exe
+D:\CSharpFundamentals\MyBabyProgram\SamplePartialClass\SamplePartialClass\bin\Debug\SamplePartialClass.pdb
+D:\CSharpFundamentals\MyBabyProgram\SamplePartialClass\SamplePartialClass\obj\Debug\SamplePartialClass.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\SamplePartialClass\SamplePartialClass\obj\Debug\SamplePartialClass.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\SamplePartialClass\SamplePartialClass\obj\Debug\SamplePartialClass.exe
+D:\CSharpFundamentals\MyBabyProgram\SamplePartialClass\SamplePartialClass\obj\Debug\SamplePartialClass.pdb

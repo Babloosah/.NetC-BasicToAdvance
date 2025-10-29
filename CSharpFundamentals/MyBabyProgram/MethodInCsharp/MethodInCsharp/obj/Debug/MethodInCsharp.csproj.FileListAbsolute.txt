@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\MethodInCsharp\MethodInCsharp\bin\Debug\MethodInCsharp.exe.config
+D:\CSharpFundamentals\MyBabyProgram\MethodInCsharp\MethodInCsharp\bin\Debug\MethodInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\MethodInCsharp\MethodInCsharp\bin\Debug\MethodInCsharp.pdb
+D:\CSharpFundamentals\MyBabyProgram\MethodInCsharp\MethodInCsharp\obj\Debug\MethodInCsharp.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\MethodInCsharp\MethodInCsharp\obj\Debug\MethodInCsharp.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\MethodInCsharp\MethodInCsharp\obj\Debug\MethodInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\MethodInCsharp\MethodInCsharp\obj\Debug\MethodInCsharp.pdb

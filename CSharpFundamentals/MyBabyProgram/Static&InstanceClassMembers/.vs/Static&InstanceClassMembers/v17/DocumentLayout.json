@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpFundamentals\\MyBabyProgram\\Static\u0026InstanceClassMembers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0497D84B-07B1-4FFF-9E86-EBCECA52D557}|Static\u0026InstanceClassMembers\\Static\u0026InstanceClassMembers.csproj|d:\\csharpfundamentals\\mybabyprogram\\static\u0026instanceclassmembers\\static\u0026instanceclassmembers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0497D84B-07B1-4FFF-9E86-EBCECA52D557}|Static\u0026InstanceClassMembers\\Static\u0026InstanceClassMembers.csproj|solutionrelative:static\u0026instanceclassmembers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpFundamentals\\MyBabyProgram\\Static\u0026InstanceClassMembers\\Static\u0026InstanceClassMembers\\Program.cs",
+              "RelativeDocumentMoniker": "Static\u0026InstanceClassMembers\\Program.cs",
+              "ToolTip": "D:\\CSharpFundamentals\\MyBabyProgram\\Static\u0026InstanceClassMembers\\Static\u0026InstanceClassMembers\\Program.cs",
+              "RelativeToolTip": "Static\u0026InstanceClassMembers\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T04:29:04.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

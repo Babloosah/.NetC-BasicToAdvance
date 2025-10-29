@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\AttributesInCSharp\AttributesInCSharp\bin\Debug\AttributesInCSharp.exe.config
+D:\CSharpFundamentals\MyBabyProgram\AttributesInCSharp\AttributesInCSharp\bin\Debug\AttributesInCSharp.exe
+D:\CSharpFundamentals\MyBabyProgram\AttributesInCSharp\AttributesInCSharp\bin\Debug\AttributesInCSharp.pdb
+D:\CSharpFundamentals\MyBabyProgram\AttributesInCSharp\AttributesInCSharp\obj\Debug\AttributesInCSharp.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\AttributesInCSharp\AttributesInCSharp\obj\Debug\AttributesInCSharp.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\AttributesInCSharp\AttributesInCSharp\obj\Debug\AttributesInCSharp.exe
+D:\CSharpFundamentals\MyBabyProgram\AttributesInCSharp\AttributesInCSharp\obj\Debug\AttributesInCSharp.pdb

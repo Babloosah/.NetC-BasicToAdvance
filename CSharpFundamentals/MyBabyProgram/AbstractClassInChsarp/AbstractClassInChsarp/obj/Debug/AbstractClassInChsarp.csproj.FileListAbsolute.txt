@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\AbstractClassInChsarp\AbstractClassInChsarp\bin\Debug\AbstractClassInChsarp.exe.config
+D:\CSharpFundamentals\MyBabyProgram\AbstractClassInChsarp\AbstractClassInChsarp\bin\Debug\AbstractClassInChsarp.exe
+D:\CSharpFundamentals\MyBabyProgram\AbstractClassInChsarp\AbstractClassInChsarp\bin\Debug\AbstractClassInChsarp.pdb
+D:\CSharpFundamentals\MyBabyProgram\AbstractClassInChsarp\AbstractClassInChsarp\obj\Debug\AbstractClassInChsarp.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\AbstractClassInChsarp\AbstractClassInChsarp\obj\Debug\AbstractClassInChsarp.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\AbstractClassInChsarp\AbstractClassInChsarp\obj\Debug\AbstractClassInChsarp.exe
+D:\CSharpFundamentals\MyBabyProgram\AbstractClassInChsarp\AbstractClassInChsarp\obj\Debug\AbstractClassInChsarp.pdb

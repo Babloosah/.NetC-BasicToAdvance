@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\Coding patterns\Datastructure\PalindromeCheck\PalindromeCheck\bin\Debug\PalindromeCheck.exe.config
+D:\CSharpFundamentals\Coding patterns\Datastructure\PalindromeCheck\PalindromeCheck\bin\Debug\PalindromeCheck.exe
+D:\CSharpFundamentals\Coding patterns\Datastructure\PalindromeCheck\PalindromeCheck\bin\Debug\PalindromeCheck.pdb
+D:\CSharpFundamentals\Coding patterns\Datastructure\PalindromeCheck\PalindromeCheck\obj\Debug\PalindromeCheck.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\Coding patterns\Datastructure\PalindromeCheck\PalindromeCheck\obj\Debug\PalindromeCheck.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\Coding patterns\Datastructure\PalindromeCheck\PalindromeCheck\obj\Debug\PalindromeCheck.exe
+D:\CSharpFundamentals\Coding patterns\Datastructure\PalindromeCheck\PalindromeCheck\obj\Debug\PalindromeCheck.pdb

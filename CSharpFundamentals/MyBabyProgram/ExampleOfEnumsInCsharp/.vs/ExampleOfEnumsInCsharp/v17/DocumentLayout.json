@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpFundamentals\\MyBabyProgram\\ExampleOfEnumsInCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68A8E304-A4D6-4FC4-B056-D666C9367D01}|ExampleOfEnumsInCsharp\\ExampleOfEnumsInCsharp.csproj|d:\\csharpfundamentals\\mybabyprogram\\exampleofenumsincsharp\\exampleofenumsincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A8E304-A4D6-4FC4-B056-D666C9367D01}|ExampleOfEnumsInCsharp\\ExampleOfEnumsInCsharp.csproj|solutionrelative:exampleofenumsincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpFundamentals\\MyBabyProgram\\ExampleOfEnumsInCsharp\\ExampleOfEnumsInCsharp\\Program.cs",
+              "RelativeDocumentMoniker": "ExampleOfEnumsInCsharp\\Program.cs",
+              "ToolTip": "D:\\CSharpFundamentals\\MyBabyProgram\\ExampleOfEnumsInCsharp\\ExampleOfEnumsInCsharp\\Program.cs",
+              "RelativeToolTip": "ExampleOfEnumsInCsharp\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T04:46:54.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

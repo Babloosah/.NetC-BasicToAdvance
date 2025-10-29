@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpFundamentals\\MyBabyProgram\\InterfaceInCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF56750-4CA1-4B9D-8A0B-4EFDCD950DD2}|InterfaceInCsharp\\InterfaceInCsharp.csproj|d:\\csharpfundamentals\\mybabyprogram\\interfaceincsharp\\interfaceincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF56750-4CA1-4B9D-8A0B-4EFDCD950DD2}|InterfaceInCsharp\\InterfaceInCsharp.csproj|solutionrelative:interfaceincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpFundamentals\\MyBabyProgram\\InterfaceInCsharp\\InterfaceInCsharp\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceInCsharp\\Program.cs",
+              "ToolTip": "D:\\CSharpFundamentals\\MyBabyProgram\\InterfaceInCsharp\\InterfaceInCsharp\\Program.cs",
+              "RelativeToolTip": "InterfaceInCsharp\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T02:06:44.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

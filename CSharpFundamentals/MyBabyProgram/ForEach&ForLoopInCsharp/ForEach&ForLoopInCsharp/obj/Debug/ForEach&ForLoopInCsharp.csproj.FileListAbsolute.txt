@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\ForEach&ForLoopInCsharp\ForEach&ForLoopInCsharp\bin\Debug\ForEach&ForLoopInCsharp.exe.config
+D:\CSharpFundamentals\MyBabyProgram\ForEach&ForLoopInCsharp\ForEach&ForLoopInCsharp\bin\Debug\ForEach&ForLoopInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\ForEach&ForLoopInCsharp\ForEach&ForLoopInCsharp\bin\Debug\ForEach&ForLoopInCsharp.pdb
+D:\CSharpFundamentals\MyBabyProgram\ForEach&ForLoopInCsharp\ForEach&ForLoopInCsharp\obj\Debug\ForEach&ForLoopInCsharp.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\ForEach&ForLoopInCsharp\ForEach&ForLoopInCsharp\obj\Debug\ForEach&ForLoopInCsharp.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\ForEach&ForLoopInCsharp\ForEach&ForLoopInCsharp\obj\Debug\ForEach&ForLoopInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\ForEach&ForLoopInCsharp\ForEach&ForLoopInCsharp\obj\Debug\ForEach&ForLoopInCsharp.pdb

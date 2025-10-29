@@ -1,0 +1,14 @@
+D:\CSharpFundamentals\Coding patterns\TwoPointersProblem\TwoPointersProblem\bin\Debug\net8.0\TwoPointersProblem.exe
+D:\CSharpFundamentals\Coding patterns\TwoPointersProblem\TwoPointersProblem\bin\Debug\net8.0\TwoPointersProblem.deps.json
+D:\CSharpFundamentals\Coding patterns\TwoPointersProblem\TwoPointersProblem\bin\Debug\net8.0\TwoPointersProblem.runtimeconfig.json
+D:\CSharpFundamentals\Coding patterns\TwoPointersProblem\TwoPointersProblem\bin\Debug\net8.0\TwoPointersProblem.dll
+D:\CSharpFundamentals\Coding patterns\TwoPointersProblem\TwoPointersProblem\bin\Debug\net8.0\TwoPointersProblem.pdb
+D:\CSharpFundamentals\Coding patterns\TwoPointersProblem\TwoPointersProblem\obj\Debug\net8.0\TwoPointersProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpFundamentals\Coding patterns\TwoPointersProblem\TwoPointersProblem\obj\Debug\net8.0\TwoPointersProblem.AssemblyInfoInputs.cache
+D:\CSharpFundamentals\Coding patterns\TwoPointersProblem\TwoPointersProblem\obj\Debug\net8.0\TwoPointersProblem.AssemblyInfo.cs
+D:\CSharpFundamentals\Coding patterns\TwoPointersProblem\TwoPointersProblem\obj\Debug\net8.0\TwoPointersProblem.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\Coding patterns\TwoPointersProblem\TwoPointersProblem\obj\Debug\net8.0\TwoPointersProblem.dll
+D:\CSharpFundamentals\Coding patterns\TwoPointersProblem\TwoPointersProblem\obj\Debug\net8.0\refint\TwoPointersProblem.dll
+D:\CSharpFundamentals\Coding patterns\TwoPointersProblem\TwoPointersProblem\obj\Debug\net8.0\TwoPointersProblem.pdb
+D:\CSharpFundamentals\Coding patterns\TwoPointersProblem\TwoPointersProblem\obj\Debug\net8.0\TwoPointersProblem.genruntimeconfig.cache
+D:\CSharpFundamentals\Coding patterns\TwoPointersProblem\TwoPointersProblem\obj\Debug\net8.0\ref\TwoPointersProblem.dll

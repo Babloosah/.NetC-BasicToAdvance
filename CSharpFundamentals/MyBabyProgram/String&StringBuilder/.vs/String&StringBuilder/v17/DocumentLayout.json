@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpFundamentals\\MyBabyProgram\\String\u0026StringBuilder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85CF49-F6F6-4642-A212-7FF145607915}|String\u0026StringBuilder\\String\u0026StringBuilder.csproj|d:\\csharpfundamentals\\mybabyprogram\\string\u0026stringbuilder\\string\u0026stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85CF49-F6F6-4642-A212-7FF145607915}|String\u0026StringBuilder\\String\u0026StringBuilder.csproj|solutionrelative:string\u0026stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpFundamentals\\MyBabyProgram\\String\u0026StringBuilder\\String\u0026StringBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "String\u0026StringBuilder\\Program.cs",
+              "ToolTip": "D:\\CSharpFundamentals\\MyBabyProgram\\String\u0026StringBuilder\\String\u0026StringBuilder\\Program.cs",
+              "RelativeToolTip": "String\u0026StringBuilder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T04:09:36.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

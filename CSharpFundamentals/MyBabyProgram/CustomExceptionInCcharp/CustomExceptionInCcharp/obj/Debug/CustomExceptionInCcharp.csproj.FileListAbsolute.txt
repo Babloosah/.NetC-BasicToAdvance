@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\CustomExceptionInCcharp\CustomExceptionInCcharp\bin\Debug\CustomExceptionInCcharp.exe.config
+D:\CSharpFundamentals\MyBabyProgram\CustomExceptionInCcharp\CustomExceptionInCcharp\bin\Debug\CustomExceptionInCcharp.exe
+D:\CSharpFundamentals\MyBabyProgram\CustomExceptionInCcharp\CustomExceptionInCcharp\bin\Debug\CustomExceptionInCcharp.pdb
+D:\CSharpFundamentals\MyBabyProgram\CustomExceptionInCcharp\CustomExceptionInCcharp\obj\Debug\CustomExceptionInCcharp.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\CustomExceptionInCcharp\CustomExceptionInCcharp\obj\Debug\CustomExceptionInCcharp.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\CustomExceptionInCcharp\CustomExceptionInCcharp\obj\Debug\CustomExceptionInCcharp.exe
+D:\CSharpFundamentals\MyBabyProgram\CustomExceptionInCcharp\CustomExceptionInCcharp\obj\Debug\CustomExceptionInCcharp.pdb

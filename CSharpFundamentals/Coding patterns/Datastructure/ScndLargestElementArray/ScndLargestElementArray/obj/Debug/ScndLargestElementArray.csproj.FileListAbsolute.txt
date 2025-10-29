@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\Coding patterns\Datastructure\ScndLargestElementArray\ScndLargestElementArray\bin\Debug\ScndLargestElementArray.exe.config
+D:\CSharpFundamentals\Coding patterns\Datastructure\ScndLargestElementArray\ScndLargestElementArray\bin\Debug\ScndLargestElementArray.exe
+D:\CSharpFundamentals\Coding patterns\Datastructure\ScndLargestElementArray\ScndLargestElementArray\bin\Debug\ScndLargestElementArray.pdb
+D:\CSharpFundamentals\Coding patterns\Datastructure\ScndLargestElementArray\ScndLargestElementArray\obj\Debug\ScndLargestElementArray.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\Coding patterns\Datastructure\ScndLargestElementArray\ScndLargestElementArray\obj\Debug\ScndLargestElementArray.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\Coding patterns\Datastructure\ScndLargestElementArray\ScndLargestElementArray\obj\Debug\ScndLargestElementArray.exe
+D:\CSharpFundamentals\Coding patterns\Datastructure\ScndLargestElementArray\ScndLargestElementArray\obj\Debug\ScndLargestElementArray.pdb

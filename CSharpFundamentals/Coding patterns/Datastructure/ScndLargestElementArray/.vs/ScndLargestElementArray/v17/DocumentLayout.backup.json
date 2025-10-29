@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpFundamentals\\Coding patterns\\Datastructure\\ScndLargestElementArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA40BDB4-37A0-49FC-A399-7AE24D383448}|ScndLargestElementArray\\ScndLargestElementArray.csproj|d:\\csharpfundamentals\\coding patterns\\datastructure\\scndlargestelementarray\\scndlargestelementarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA40BDB4-37A0-49FC-A399-7AE24D383448}|ScndLargestElementArray\\ScndLargestElementArray.csproj|solutionrelative:scndlargestelementarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpFundamentals\\Coding patterns\\Datastructure\\ScndLargestElementArray\\ScndLargestElementArray\\Program.cs",
+              "RelativeDocumentMoniker": "ScndLargestElementArray\\Program.cs",
+              "ToolTip": "D:\\CSharpFundamentals\\Coding patterns\\Datastructure\\ScndLargestElementArray\\ScndLargestElementArray\\Program.cs",
+              "RelativeToolTip": "ScndLargestElementArray\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T03:10:08.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

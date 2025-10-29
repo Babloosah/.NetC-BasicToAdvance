@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpFundamentals\\MyBabyProgram\\ProblemInMultiClassInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5924454-7051-4187-8FC4-32B88969EAEE}|ProblemInMultiClassInheritance\\ProblemInMultiClassInheritance.csproj|d:\\csharpfundamentals\\mybabyprogram\\probleminmulticlassinheritance\\probleminmulticlassinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5924454-7051-4187-8FC4-32B88969EAEE}|ProblemInMultiClassInheritance\\ProblemInMultiClassInheritance.csproj|solutionrelative:probleminmulticlassinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpFundamentals\\MyBabyProgram\\ProblemInMultiClassInheritance\\ProblemInMultiClassInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "ProblemInMultiClassInheritance\\Program.cs",
+              "ToolTip": "D:\\CSharpFundamentals\\MyBabyProgram\\ProblemInMultiClassInheritance\\ProblemInMultiClassInheritance\\Program.cs",
+              "RelativeToolTip": "ProblemInMultiClassInheritance\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAuwGcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:22:10.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

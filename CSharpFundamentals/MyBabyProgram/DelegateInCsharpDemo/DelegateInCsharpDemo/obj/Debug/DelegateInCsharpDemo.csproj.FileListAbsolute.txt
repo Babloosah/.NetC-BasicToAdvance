@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\DelegateInCsharpDemo\DelegateInCsharpDemo\bin\Debug\DelegateInCsharpDemo.exe.config
+D:\CSharpFundamentals\MyBabyProgram\DelegateInCsharpDemo\DelegateInCsharpDemo\bin\Debug\DelegateInCsharpDemo.exe
+D:\CSharpFundamentals\MyBabyProgram\DelegateInCsharpDemo\DelegateInCsharpDemo\bin\Debug\DelegateInCsharpDemo.pdb
+D:\CSharpFundamentals\MyBabyProgram\DelegateInCsharpDemo\DelegateInCsharpDemo\obj\Debug\DelegateInCsharpDemo.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\DelegateInCsharpDemo\DelegateInCsharpDemo\obj\Debug\DelegateInCsharpDemo.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\DelegateInCsharpDemo\DelegateInCsharpDemo\obj\Debug\DelegateInCsharpDemo.exe
+D:\CSharpFundamentals\MyBabyProgram\DelegateInCsharpDemo\DelegateInCsharpDemo\obj\Debug\DelegateInCsharpDemo.pdb

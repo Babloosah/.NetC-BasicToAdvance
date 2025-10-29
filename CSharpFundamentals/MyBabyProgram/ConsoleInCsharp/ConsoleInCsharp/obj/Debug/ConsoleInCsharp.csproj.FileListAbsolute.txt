@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\ConsoleInCsharp\ConsoleInCsharp\bin\Debug\ConsoleInCsharp.exe.config
+D:\CSharpFundamentals\MyBabyProgram\ConsoleInCsharp\ConsoleInCsharp\bin\Debug\ConsoleInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\ConsoleInCsharp\ConsoleInCsharp\bin\Debug\ConsoleInCsharp.pdb
+D:\CSharpFundamentals\MyBabyProgram\ConsoleInCsharp\ConsoleInCsharp\obj\Debug\ConsoleInCsharp.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\ConsoleInCsharp\ConsoleInCsharp\obj\Debug\ConsoleInCsharp.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\ConsoleInCsharp\ConsoleInCsharp\obj\Debug\ConsoleInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\ConsoleInCsharp\ConsoleInCsharp\obj\Debug\ConsoleInCsharp.pdb

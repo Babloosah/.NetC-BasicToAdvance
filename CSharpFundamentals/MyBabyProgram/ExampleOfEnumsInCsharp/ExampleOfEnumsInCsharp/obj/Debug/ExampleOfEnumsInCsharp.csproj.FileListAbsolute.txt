@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\ExampleOfEnumsInCsharp\ExampleOfEnumsInCsharp\obj\Debug\ExampleOfEnumsInCsharp.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\ExampleOfEnumsInCsharp\ExampleOfEnumsInCsharp\obj\Debug\ExampleOfEnumsInCsharp.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\ExampleOfEnumsInCsharp\ExampleOfEnumsInCsharp\bin\Debug\ExampleOfEnumsInCsharp.exe.config
+D:\CSharpFundamentals\MyBabyProgram\ExampleOfEnumsInCsharp\ExampleOfEnumsInCsharp\bin\Debug\ExampleOfEnumsInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\ExampleOfEnumsInCsharp\ExampleOfEnumsInCsharp\bin\Debug\ExampleOfEnumsInCsharp.pdb
+D:\CSharpFundamentals\MyBabyProgram\ExampleOfEnumsInCsharp\ExampleOfEnumsInCsharp\obj\Debug\ExampleOfEnumsInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\ExampleOfEnumsInCsharp\ExampleOfEnumsInCsharp\obj\Debug\ExampleOfEnumsInCsharp.pdb

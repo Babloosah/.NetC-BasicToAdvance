@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\AccessModifiersInCSharp\InternalProtected\bin\Debug\InternalProtected.pdb
+D:\CSharpFundamentals\MyBabyProgram\AccessModifiersInCSharp\InternalProtected\obj\Debug\InternalProtected.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\AccessModifiersInCSharp\InternalProtected\obj\Debug\InternalProtected.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\AccessModifiersInCSharp\InternalProtected\obj\Debug\InternalProtected.pdb
+D:\CSharpFundamentals\MyBabyProgram\AccessModifiersInCSharp\InternalProtected\bin\Debug\InternalProtected.dll.config
+D:\CSharpFundamentals\MyBabyProgram\AccessModifiersInCSharp\InternalProtected\bin\Debug\InternalProtected.dll
+D:\CSharpFundamentals\MyBabyProgram\AccessModifiersInCSharp\InternalProtected\obj\Debug\InternalProtected.dll

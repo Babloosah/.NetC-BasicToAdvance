@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpFundamentals\\Coding patterns\\Datastructure\\MaxValueInArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9C9FBF-BD0B-4427-AC13-5EC92CF786D5}|MaxValueInArray\\MaxValueInArray.csproj|d:\\csharpfundamentals\\coding patterns\\datastructure\\maxvalueinarray\\maxvalueinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9C9FBF-BD0B-4427-AC13-5EC92CF786D5}|MaxValueInArray\\MaxValueInArray.csproj|solutionrelative:maxvalueinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpFundamentals\\Coding patterns\\Datastructure\\MaxValueInArray\\MaxValueInArray\\Program.cs",
+              "RelativeDocumentMoniker": "MaxValueInArray\\Program.cs",
+              "ToolTip": "D:\\CSharpFundamentals\\Coding patterns\\Datastructure\\MaxValueInArray\\MaxValueInArray\\Program.cs",
+              "RelativeToolTip": "MaxValueInArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:40:55.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

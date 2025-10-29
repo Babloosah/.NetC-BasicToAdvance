@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\InterfaceInCsharp\InterfaceInCsharp\obj\Debug\InterfaceInCsharp.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\InterfaceInCsharp\InterfaceInCsharp\obj\Debug\InterfaceInCsharp.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\InterfaceInCsharp\InterfaceInCsharp\bin\Debug\InterfaceInCsharp.exe.config
+D:\CSharpFundamentals\MyBabyProgram\InterfaceInCsharp\InterfaceInCsharp\bin\Debug\InterfaceInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\InterfaceInCsharp\InterfaceInCsharp\bin\Debug\InterfaceInCsharp.pdb
+D:\CSharpFundamentals\MyBabyProgram\InterfaceInCsharp\InterfaceInCsharp\obj\Debug\InterfaceInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\InterfaceInCsharp\InterfaceInCsharp\obj\Debug\InterfaceInCsharp.pdb

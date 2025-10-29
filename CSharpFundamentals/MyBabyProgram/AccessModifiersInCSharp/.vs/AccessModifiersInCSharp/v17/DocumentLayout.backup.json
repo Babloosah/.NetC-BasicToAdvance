@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpFundamentals\\MyBabyProgram\\AccessModifiersInCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF83066-5633-433E-8754-A77E8D51FF11}|InternalProtected\\InternalProtected.csproj|d:\\csharpfundamentals\\mybabyprogram\\accessmodifiersincsharp\\internalprotected\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF83066-5633-433E-8754-A77E8D51FF11}|InternalProtected\\InternalProtected.csproj|solutionrelative:internalprotected\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCEA3A5-565D-487E-8E65-D2820804B32D}|InternalVariables\\InternalVariables.csproj|d:\\csharpfundamentals\\mybabyprogram\\accessmodifiersincsharp\\internalvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCEA3A5-565D-487E-8E65-D2820804B32D}|InternalVariables\\InternalVariables.csproj|solutionrelative:internalvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A18D53-49D4-404F-B29F-4FAE788BEC39}|AccessModifiersInCSharp\\AccessModifiersInCSharp.csproj|d:\\csharpfundamentals\\mybabyprogram\\accessmodifiersincsharp\\accessmodifiersincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A18D53-49D4-404F-B29F-4FAE788BEC39}|AccessModifiersInCSharp\\AccessModifiersInCSharp.csproj|solutionrelative:accessmodifiersincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|InternalVariables||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|InternalProtected||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF83066-5633-433E-8754-A77E8D51FF11}|InternalProtected\\InternalProtected.csproj|d:\\csharpfundamentals\\mybabyprogram\\accessmodifiersincsharp\\internalprotected\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCEA3A5-565D-487E-8E65-D2820804B32D}|InternalVariables\\InternalVariables.csproj|d:\\csharpfundamentals\\mybabyprogram\\accessmodifiersincsharp\\internalvariables\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InternalVariables",
+              "DocumentMoniker": "D:\\CSharpFundamentals\\MyBabyProgram\\AccessModifiersInCSharp\\InternalVariables\\InternalVariables.csproj",
+              "RelativeDocumentMoniker": "InternalVariables\\InternalVariables.csproj",
+              "ToolTip": "D:\\CSharpFundamentals\\MyBabyProgram\\AccessModifiersInCSharp\\InternalVariables\\InternalVariables.csproj",
+              "RelativeToolTip": "InternalVariables\\InternalVariables.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-02T11:34:20.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InternalProtected",
+              "DocumentMoniker": "D:\\CSharpFundamentals\\MyBabyProgram\\AccessModifiersInCSharp\\InternalProtected\\InternalProtected.csproj",
+              "RelativeDocumentMoniker": "InternalProtected\\InternalProtected.csproj",
+              "ToolTip": "D:\\CSharpFundamentals\\MyBabyProgram\\AccessModifiersInCSharp\\InternalProtected\\InternalProtected.csproj",
+              "RelativeToolTip": "InternalProtected\\InternalProtected.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-02T11:34:08.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpFundamentals\\MyBabyProgram\\AccessModifiersInCSharp\\InternalVariables\\Program.cs",
+              "RelativeDocumentMoniker": "InternalVariables\\Program.cs",
+              "ToolTip": "D:\\CSharpFundamentals\\MyBabyProgram\\AccessModifiersInCSharp\\InternalVariables\\Program.cs",
+              "RelativeToolTip": "InternalVariables\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:29:31.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpFundamentals\\MyBabyProgram\\AccessModifiersInCSharp\\InternalProtected\\Program.cs",
+              "RelativeDocumentMoniker": "InternalProtected\\Program.cs",
+              "ToolTip": "D:\\CSharpFundamentals\\MyBabyProgram\\AccessModifiersInCSharp\\InternalProtected\\Program.cs",
+              "RelativeToolTip": "InternalProtected\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:32:56.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpFundamentals\\MyBabyProgram\\AccessModifiersInCSharp\\AccessModifiersInCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "AccessModifiersInCSharp\\Program.cs",
+              "ToolTip": "D:\\CSharpFundamentals\\MyBabyProgram\\AccessModifiersInCSharp\\AccessModifiersInCSharp\\Program.cs",
+              "RelativeToolTip": "AccessModifiersInCSharp\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T07:40:45.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

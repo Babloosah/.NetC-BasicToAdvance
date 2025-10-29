@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\OperatorsInCsharp\OperatorsInCsharp\bin\Debug\OperatorsInCsharp.exe.config
+D:\CSharpFundamentals\MyBabyProgram\OperatorsInCsharp\OperatorsInCsharp\bin\Debug\OperatorsInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\OperatorsInCsharp\OperatorsInCsharp\bin\Debug\OperatorsInCsharp.pdb
+D:\CSharpFundamentals\MyBabyProgram\OperatorsInCsharp\OperatorsInCsharp\obj\Debug\OperatorsInCsharp.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\OperatorsInCsharp\OperatorsInCsharp\obj\Debug\OperatorsInCsharp.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\OperatorsInCsharp\OperatorsInCsharp\obj\Debug\OperatorsInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\OperatorsInCsharp\OperatorsInCsharp\obj\Debug\OperatorsInCsharp.pdb

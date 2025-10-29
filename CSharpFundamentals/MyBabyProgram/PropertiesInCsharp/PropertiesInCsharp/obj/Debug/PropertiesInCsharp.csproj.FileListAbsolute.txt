@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\PropertiesInCsharp\PropertiesInCsharp\bin\Debug\PropertiesInCsharp.exe.config
+D:\CSharpFundamentals\MyBabyProgram\PropertiesInCsharp\PropertiesInCsharp\bin\Debug\PropertiesInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\PropertiesInCsharp\PropertiesInCsharp\bin\Debug\PropertiesInCsharp.pdb
+D:\CSharpFundamentals\MyBabyProgram\PropertiesInCsharp\PropertiesInCsharp\obj\Debug\PropertiesInCsharp.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\PropertiesInCsharp\PropertiesInCsharp\obj\Debug\PropertiesInCsharp.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\PropertiesInCsharp\PropertiesInCsharp\obj\Debug\PropertiesInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\PropertiesInCsharp\PropertiesInCsharp\obj\Debug\PropertiesInCsharp.pdb

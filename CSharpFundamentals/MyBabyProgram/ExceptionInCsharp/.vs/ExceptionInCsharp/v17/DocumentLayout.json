@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpFundamentals\\MyBabyProgram\\ExceptionInCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C42E500-1838-4D47-81AF-E897666EA099}|ExceptionInCsharp\\ExceptionInCsharp.csproj|d:\\csharpfundamentals\\mybabyprogram\\exceptionincsharp\\exceptionincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C42E500-1838-4D47-81AF-E897666EA099}|ExceptionInCsharp\\ExceptionInCsharp.csproj|solutionrelative:exceptionincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpFundamentals\\MyBabyProgram\\ExceptionInCsharp\\ExceptionInCsharp\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionInCsharp\\Program.cs",
+              "ToolTip": "D:\\CSharpFundamentals\\MyBabyProgram\\ExceptionInCsharp\\ExceptionInCsharp\\Program.cs",
+              "RelativeToolTip": "ExceptionInCsharp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T11:22:26.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\PartialClassInCsharp\PartialClassInCsharp\obj\Debug\PartialClassInCsharp.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\PartialClassInCsharp\PartialClassInCsharp\obj\Debug\PartialClassInCsharp.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\PartialClassInCsharp\PartialClassInCsharp\bin\Debug\PartialClassInCsharp.exe.config
+D:\CSharpFundamentals\MyBabyProgram\PartialClassInCsharp\PartialClassInCsharp\bin\Debug\PartialClassInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\PartialClassInCsharp\PartialClassInCsharp\bin\Debug\PartialClassInCsharp.pdb
+D:\CSharpFundamentals\MyBabyProgram\PartialClassInCsharp\PartialClassInCsharp\obj\Debug\PartialClassInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\PartialClassInCsharp\PartialClassInCsharp\obj\Debug\PartialClassInCsharp.pdb

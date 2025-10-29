@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpFundamentals\\MyBabyProgram\\PartialClassInCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1099D49-08F5-4222-B2D7-0C6B1B3FD96F}|PartialClassInCsharp\\PartialClassInCsharp.csproj|D:\\CSharpFundamentals\\MyBabyProgram\\PartialClassInCsharp\\partialclassincsharp\\partialclasstwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1099D49-08F5-4222-B2D7-0C6B1B3FD96F}|PartialClassInCsharp\\PartialClassInCsharp.csproj|solutionrelative:partialclassincsharp\\partialclasstwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1099D49-08F5-4222-B2D7-0C6B1B3FD96F}|PartialClassInCsharp\\PartialClassInCsharp.csproj|D:\\CSharpFundamentals\\MyBabyProgram\\PartialClassInCsharp\\partialclassincsharp\\partialclassone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1099D49-08F5-4222-B2D7-0C6B1B3FD96F}|PartialClassInCsharp\\PartialClassInCsharp.csproj|solutionrelative:partialclassincsharp\\partialclassone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1099D49-08F5-4222-B2D7-0C6B1B3FD96F}|PartialClassInCsharp\\PartialClassInCsharp.csproj|d:\\csharpfundamentals\\mybabyprogram\\partialclassincsharp\\partialclassincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1099D49-08F5-4222-B2D7-0C6B1B3FD96F}|PartialClassInCsharp\\PartialClassInCsharp.csproj|solutionrelative:partialclassincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PartialClassTwo.cs",
+              "DocumentMoniker": "D:\\CSharpFundamentals\\MyBabyProgram\\PartialClassInCsharp\\PartialClassInCsharp\\PartialClassTwo.cs",
+              "RelativeDocumentMoniker": "PartialClassInCsharp\\PartialClassTwo.cs",
+              "ToolTip": "D:\\CSharpFundamentals\\MyBabyProgram\\PartialClassInCsharp\\PartialClassInCsharp\\PartialClassTwo.cs",
+              "RelativeToolTip": "PartialClassInCsharp\\PartialClassTwo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:23:49.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartialClassOne.cs",
+              "DocumentMoniker": "D:\\CSharpFundamentals\\MyBabyProgram\\PartialClassInCsharp\\PartialClassInCsharp\\PartialClassOne.cs",
+              "RelativeDocumentMoniker": "PartialClassInCsharp\\PartialClassOne.cs",
+              "ToolTip": "D:\\CSharpFundamentals\\MyBabyProgram\\PartialClassInCsharp\\PartialClassInCsharp\\PartialClassOne.cs",
+              "RelativeToolTip": "PartialClassInCsharp\\PartialClassOne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:23:28.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpFundamentals\\MyBabyProgram\\PartialClassInCsharp\\PartialClassInCsharp\\Program.cs",
+              "RelativeDocumentMoniker": "PartialClassInCsharp\\Program.cs",
+              "ToolTip": "D:\\CSharpFundamentals\\MyBabyProgram\\PartialClassInCsharp\\PartialClassInCsharp\\Program.cs",
+              "RelativeToolTip": "PartialClassInCsharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:13:09.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

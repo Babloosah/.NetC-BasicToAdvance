@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\Static&InstanceClassMembers\Static&InstanceClassMembers\bin\Debug\Static&InstanceClassMembers.exe.config
+D:\CSharpFundamentals\MyBabyProgram\Static&InstanceClassMembers\Static&InstanceClassMembers\bin\Debug\Static&InstanceClassMembers.exe
+D:\CSharpFundamentals\MyBabyProgram\Static&InstanceClassMembers\Static&InstanceClassMembers\bin\Debug\Static&InstanceClassMembers.pdb
+D:\CSharpFundamentals\MyBabyProgram\Static&InstanceClassMembers\Static&InstanceClassMembers\obj\Debug\Static&InstanceClassMembers.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\Static&InstanceClassMembers\Static&InstanceClassMembers\obj\Debug\Static&InstanceClassMembers.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\Static&InstanceClassMembers\Static&InstanceClassMembers\obj\Debug\Static&InstanceClassMembers.exe
+D:\CSharpFundamentals\MyBabyProgram\Static&InstanceClassMembers\Static&InstanceClassMembers\obj\Debug\Static&InstanceClassMembers.pdb

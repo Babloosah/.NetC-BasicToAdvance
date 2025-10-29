@@ -1,0 +1,10 @@
+D:\CSharpFundamentals\A1\A1\obj\Debug\A1.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\A1\A1\obj\Debug\A1.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\A1\A1\bin\Debug\A1.exe.config
+D:\CSharpFundamentals\A1\A1\bin\Debug\A1.exe
+D:\CSharpFundamentals\A1\A1\bin\Debug\A1.pdb
+D:\CSharpFundamentals\A1\A1\bin\Debug\ClassLibrary1.dll
+D:\CSharpFundamentals\A1\A1\bin\Debug\ClassLibrary1.pdb
+D:\CSharpFundamentals\A1\A1\obj\Debug\A1.csproj.Up2Date
+D:\CSharpFundamentals\A1\A1\obj\Debug\A1.exe
+D:\CSharpFundamentals\A1\A1\obj\Debug\A1.pdb

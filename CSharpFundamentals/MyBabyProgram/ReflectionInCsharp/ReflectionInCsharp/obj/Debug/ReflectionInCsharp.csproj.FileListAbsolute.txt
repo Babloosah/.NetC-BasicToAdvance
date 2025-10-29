@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\ReflectionInCsharp\ReflectionInCsharp\bin\Debug\ReflectionInCsharp.exe.config
+D:\CSharpFundamentals\MyBabyProgram\ReflectionInCsharp\ReflectionInCsharp\bin\Debug\ReflectionInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\ReflectionInCsharp\ReflectionInCsharp\bin\Debug\ReflectionInCsharp.pdb
+D:\CSharpFundamentals\MyBabyProgram\ReflectionInCsharp\ReflectionInCsharp\obj\Debug\ReflectionInCsharp.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\ReflectionInCsharp\ReflectionInCsharp\obj\Debug\ReflectionInCsharp.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\ReflectionInCsharp\ReflectionInCsharp\obj\Debug\ReflectionInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\ReflectionInCsharp\ReflectionInCsharp\obj\Debug\ReflectionInCsharp.pdb

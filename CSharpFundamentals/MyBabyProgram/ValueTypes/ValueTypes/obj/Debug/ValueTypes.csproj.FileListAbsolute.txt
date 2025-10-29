@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\ValueTypes\ValueTypes\bin\Debug\ValueTypes.exe.config
+D:\CSharpFundamentals\MyBabyProgram\ValueTypes\ValueTypes\bin\Debug\ValueTypes.exe
+D:\CSharpFundamentals\MyBabyProgram\ValueTypes\ValueTypes\bin\Debug\ValueTypes.pdb
+D:\CSharpFundamentals\MyBabyProgram\ValueTypes\ValueTypes\obj\Debug\ValueTypes.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\ValueTypes\ValueTypes\obj\Debug\ValueTypes.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\ValueTypes\ValueTypes\obj\Debug\ValueTypes.exe
+D:\CSharpFundamentals\MyBabyProgram\ValueTypes\ValueTypes\obj\Debug\ValueTypes.pdb

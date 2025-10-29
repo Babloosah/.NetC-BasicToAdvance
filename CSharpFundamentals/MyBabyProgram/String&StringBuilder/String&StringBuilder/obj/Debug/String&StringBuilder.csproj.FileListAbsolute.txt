@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\String&StringBuilder\String&StringBuilder\bin\Debug\String&StringBuilder.exe.config
+D:\CSharpFundamentals\MyBabyProgram\String&StringBuilder\String&StringBuilder\bin\Debug\String&StringBuilder.exe
+D:\CSharpFundamentals\MyBabyProgram\String&StringBuilder\String&StringBuilder\bin\Debug\String&StringBuilder.pdb
+D:\CSharpFundamentals\MyBabyProgram\String&StringBuilder\String&StringBuilder\obj\Debug\String&StringBuilder.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\String&StringBuilder\String&StringBuilder\obj\Debug\String&StringBuilder.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\String&StringBuilder\String&StringBuilder\obj\Debug\String&StringBuilder.exe
+D:\CSharpFundamentals\MyBabyProgram\String&StringBuilder\String&StringBuilder\obj\Debug\String&StringBuilder.pdb

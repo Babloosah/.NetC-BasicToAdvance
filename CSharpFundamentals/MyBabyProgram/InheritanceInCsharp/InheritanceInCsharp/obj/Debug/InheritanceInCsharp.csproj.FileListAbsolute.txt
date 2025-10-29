@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\InheritanceInCsharp\InheritanceInCsharp\bin\Debug\InheritanceInCsharp.exe.config
+D:\CSharpFundamentals\MyBabyProgram\InheritanceInCsharp\InheritanceInCsharp\bin\Debug\InheritanceInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\InheritanceInCsharp\InheritanceInCsharp\bin\Debug\InheritanceInCsharp.pdb
+D:\CSharpFundamentals\MyBabyProgram\InheritanceInCsharp\InheritanceInCsharp\obj\Debug\InheritanceInCsharp.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\InheritanceInCsharp\InheritanceInCsharp\obj\Debug\InheritanceInCsharp.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\InheritanceInCsharp\InheritanceInCsharp\obj\Debug\InheritanceInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\InheritanceInCsharp\InheritanceInCsharp\obj\Debug\InheritanceInCsharp.pdb

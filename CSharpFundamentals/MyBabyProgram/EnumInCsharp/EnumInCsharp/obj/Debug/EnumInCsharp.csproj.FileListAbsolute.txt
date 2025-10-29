@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\EnumInCsharp\EnumInCsharp\bin\Debug\EnumInCsharp.exe.config
+D:\CSharpFundamentals\MyBabyProgram\EnumInCsharp\EnumInCsharp\bin\Debug\EnumInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\EnumInCsharp\EnumInCsharp\bin\Debug\EnumInCsharp.pdb
+D:\CSharpFundamentals\MyBabyProgram\EnumInCsharp\EnumInCsharp\obj\Debug\EnumInCsharp.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\EnumInCsharp\EnumInCsharp\obj\Debug\EnumInCsharp.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\EnumInCsharp\EnumInCsharp\obj\Debug\EnumInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\EnumInCsharp\EnumInCsharp\obj\Debug\EnumInCsharp.pdb

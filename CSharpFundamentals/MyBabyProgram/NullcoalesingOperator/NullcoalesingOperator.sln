@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullcoalesingOperator", "NullcoalesingOperator\NullcoalesingOperator.csproj", "{B3F76A9A-C98F-41C4-B1C0-694E369BF378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3F76A9A-C98F-41C4-B1C0-694E369BF378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F76A9A-C98F-41C4-B1C0-694E369BF378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F76A9A-C98F-41C4-B1C0-694E369BF378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F76A9A-C98F-41C4-B1C0-694E369BF378}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {375A571C-ED5A-449B-9597-FFF741E977D0}
+	EndGlobalSection
+EndGlobal

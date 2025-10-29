@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpFundamentals\\MyBabyProgram\\SolvingExceptionMissUesInCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C75A362D-E919-496C-B0AA-FC54ECD7C32F}|SolvingExceptionMissUesInCsharp\\SolvingExceptionMissUesInCsharp.csproj|d:\\csharpfundamentals\\mybabyprogram\\solvingexceptionmissuesincsharp\\solvingexceptionmissuesincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75A362D-E919-496C-B0AA-FC54ECD7C32F}|SolvingExceptionMissUesInCsharp\\SolvingExceptionMissUesInCsharp.csproj|solutionrelative:solvingexceptionmissuesincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpFundamentals\\MyBabyProgram\\SolvingExceptionMissUesInCsharp\\SolvingExceptionMissUesInCsharp\\Program.cs",
+              "RelativeDocumentMoniker": "SolvingExceptionMissUesInCsharp\\Program.cs",
+              "ToolTip": "D:\\CSharpFundamentals\\MyBabyProgram\\SolvingExceptionMissUesInCsharp\\SolvingExceptionMissUesInCsharp\\Program.cs",
+              "RelativeToolTip": "SolvingExceptionMissUesInCsharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T04:13:03.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

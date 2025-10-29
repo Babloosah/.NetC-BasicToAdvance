@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\EncapsulationInCsharp\EncapsulationInCsharp\bin\Debug\EncapsulationInCsharp.exe.config
+D:\CSharpFundamentals\MyBabyProgram\EncapsulationInCsharp\EncapsulationInCsharp\bin\Debug\EncapsulationInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\EncapsulationInCsharp\EncapsulationInCsharp\bin\Debug\EncapsulationInCsharp.pdb
+D:\CSharpFundamentals\MyBabyProgram\EncapsulationInCsharp\EncapsulationInCsharp\obj\Debug\EncapsulationInCsharp.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\EncapsulationInCsharp\EncapsulationInCsharp\obj\Debug\EncapsulationInCsharp.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\EncapsulationInCsharp\EncapsulationInCsharp\obj\Debug\EncapsulationInCsharp.exe
+D:\CSharpFundamentals\MyBabyProgram\EncapsulationInCsharp\EncapsulationInCsharp\obj\Debug\EncapsulationInCsharp.pdb

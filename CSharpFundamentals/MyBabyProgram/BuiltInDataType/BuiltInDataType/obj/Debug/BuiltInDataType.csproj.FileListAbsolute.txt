@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\BuiltInDataType\BuiltInDataType\bin\Debug\BuiltInDataType.exe.config
+D:\CSharpFundamentals\MyBabyProgram\BuiltInDataType\BuiltInDataType\bin\Debug\BuiltInDataType.exe
+D:\CSharpFundamentals\MyBabyProgram\BuiltInDataType\BuiltInDataType\bin\Debug\BuiltInDataType.pdb
+D:\CSharpFundamentals\MyBabyProgram\BuiltInDataType\BuiltInDataType\obj\Debug\BuiltInDataType.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\BuiltInDataType\BuiltInDataType\obj\Debug\BuiltInDataType.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\BuiltInDataType\BuiltInDataType\obj\Debug\BuiltInDataType.exe
+D:\CSharpFundamentals\MyBabyProgram\BuiltInDataType\BuiltInDataType\obj\Debug\BuiltInDataType.pdb

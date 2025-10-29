@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\StructureIncSharp\StructureIncSharp\bin\Debug\StructureIncSharp.exe.config
+D:\CSharpFundamentals\MyBabyProgram\StructureIncSharp\StructureIncSharp\bin\Debug\StructureIncSharp.exe
+D:\CSharpFundamentals\MyBabyProgram\StructureIncSharp\StructureIncSharp\bin\Debug\StructureIncSharp.pdb
+D:\CSharpFundamentals\MyBabyProgram\StructureIncSharp\StructureIncSharp\obj\Debug\StructureIncSharp.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\StructureIncSharp\StructureIncSharp\obj\Debug\StructureIncSharp.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\StructureIncSharp\StructureIncSharp\obj\Debug\StructureIncSharp.exe
+D:\CSharpFundamentals\MyBabyProgram\StructureIncSharp\StructureIncSharp\obj\Debug\StructureIncSharp.pdb

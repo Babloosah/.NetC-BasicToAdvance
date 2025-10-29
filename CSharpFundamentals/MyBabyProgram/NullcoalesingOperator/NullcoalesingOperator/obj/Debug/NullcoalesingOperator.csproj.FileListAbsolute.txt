@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\NullcoalesingOperator\NullcoalesingOperator\obj\Debug\NullcoalesingOperator.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\NullcoalesingOperator\NullcoalesingOperator\obj\Debug\NullcoalesingOperator.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\NullcoalesingOperator\NullcoalesingOperator\bin\Debug\NullcoalesingOperator.exe.config
+D:\CSharpFundamentals\MyBabyProgram\NullcoalesingOperator\NullcoalesingOperator\bin\Debug\NullcoalesingOperator.exe
+D:\CSharpFundamentals\MyBabyProgram\NullcoalesingOperator\NullcoalesingOperator\bin\Debug\NullcoalesingOperator.pdb
+D:\CSharpFundamentals\MyBabyProgram\NullcoalesingOperator\NullcoalesingOperator\obj\Debug\NullcoalesingOperator.exe
+D:\CSharpFundamentals\MyBabyProgram\NullcoalesingOperator\NullcoalesingOperator\obj\Debug\NullcoalesingOperator.pdb

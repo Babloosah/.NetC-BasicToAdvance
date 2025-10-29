@@ -1,0 +1,7 @@
+D:\CSharpFundamentals\MyBabyProgram\AccessModifiersInCSharp\AccessModifiersInCSharp\bin\Debug\AccessModifiersInCSharp.exe.config
+D:\CSharpFundamentals\MyBabyProgram\AccessModifiersInCSharp\AccessModifiersInCSharp\bin\Debug\AccessModifiersInCSharp.exe
+D:\CSharpFundamentals\MyBabyProgram\AccessModifiersInCSharp\AccessModifiersInCSharp\bin\Debug\AccessModifiersInCSharp.pdb
+D:\CSharpFundamentals\MyBabyProgram\AccessModifiersInCSharp\AccessModifiersInCSharp\obj\Debug\AccessModifiersInCSharp.csproj.AssemblyReference.cache
+D:\CSharpFundamentals\MyBabyProgram\AccessModifiersInCSharp\AccessModifiersInCSharp\obj\Debug\AccessModifiersInCSharp.csproj.CoreCompileInputs.cache
+D:\CSharpFundamentals\MyBabyProgram\AccessModifiersInCSharp\AccessModifiersInCSharp\obj\Debug\AccessModifiersInCSharp.exe
+D:\CSharpFundamentals\MyBabyProgram\AccessModifiersInCSharp\AccessModifiersInCSharp\obj\Debug\AccessModifiersInCSharp.pdb
