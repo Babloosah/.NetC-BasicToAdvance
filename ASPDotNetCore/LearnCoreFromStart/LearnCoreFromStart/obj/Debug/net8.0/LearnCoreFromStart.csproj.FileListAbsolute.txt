@@ -1,0 +1,51 @@
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\bin\Debug\net8.0\appsettings.Development.json
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\bin\Debug\net8.0\appsettings.json
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\bin\Debug\net8.0\LearnCoreFromStart.exe
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\bin\Debug\net8.0\LearnCoreFromStart.deps.json
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\bin\Debug\net8.0\LearnCoreFromStart.runtimeconfig.json
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\bin\Debug\net8.0\LearnCoreFromStart.dll
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\bin\Debug\net8.0\LearnCoreFromStart.pdb
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\LearnCoreFromStart.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\LearnCoreFromStart.AssemblyInfoInputs.cache
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\LearnCoreFromStart.AssemblyInfo.cs
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\LearnCoreFromStart.csproj.CoreCompileInputs.cache
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\LearnCoreFromStart.MvcApplicationPartsAssemblyInfo.cache
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\staticwebassets.build.json
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\staticwebassets.development.json
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\staticwebassets\msbuild.LearnCoreFromStart.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\staticwebassets\msbuild.build.LearnCoreFromStart.props
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LearnCoreFromStart.props
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LearnCoreFromStart.props
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\scopedcss\bundle\LearnCoreFromStart.styles.css
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\LearnCoreFromStart.dll
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\refint\LearnCoreFromStart.dll
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\LearnCoreFromStart.pdb
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\LearnCoreFromStart.genruntimeconfig.cache
+D:\Tew Component\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\ref\LearnCoreFromStart.dll
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\bin\Debug\net8.0\appsettings.Development.json
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\bin\Debug\net8.0\appsettings.json
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\bin\Debug\net8.0\LearnCoreFromStart.exe
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\bin\Debug\net8.0\LearnCoreFromStart.deps.json
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\bin\Debug\net8.0\LearnCoreFromStart.runtimeconfig.json
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\bin\Debug\net8.0\LearnCoreFromStart.dll
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\bin\Debug\net8.0\LearnCoreFromStart.pdb
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\LearnCoreFromStart.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\LearnCoreFromStart.AssemblyInfoInputs.cache
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\LearnCoreFromStart.AssemblyInfo.cs
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\LearnCoreFromStart.csproj.CoreCompileInputs.cache
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\LearnCoreFromStart.MvcApplicationPartsAssemblyInfo.cache
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\LearnCoreFromStart.sourcelink.json
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\staticwebassets.build.json
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\staticwebassets.development.json
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\staticwebassets\msbuild.LearnCoreFromStart.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\staticwebassets\msbuild.build.LearnCoreFromStart.props
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LearnCoreFromStart.props
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LearnCoreFromStart.props
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\scopedcss\bundle\LearnCoreFromStart.styles.css
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\LearnCoreFromStart.dll
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\refint\LearnCoreFromStart.dll
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\LearnCoreFromStart.pdb
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\LearnCoreFromStart.genruntimeconfig.cache
+D:\.NetC-BasicToAdvance\ASPDotNetCore\LearnCoreFromStart\LearnCoreFromStart\obj\Debug\net8.0\ref\LearnCoreFromStart.dll
