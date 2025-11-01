@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LearnCoreFromStart")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60d9d03512b95ec8ac75a87fae75934a04372e2e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cdafa2614b83b52ed6276f762007a3f6bfe49c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("LearnCoreFromStart")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LearnCoreFromStart")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

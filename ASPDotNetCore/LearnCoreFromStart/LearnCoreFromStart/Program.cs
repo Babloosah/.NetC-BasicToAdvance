@@ -12,10 +12,30 @@ app.Run(async (HttpContext context) =>
     {
         if (context.Request.Method == "GET")
         {
-            var employees = EmploeeRepository.GetEmployee();
-            foreach (var employee in employees)
+            var empId = context.Request.Query["Id"];
+            if (int.TryParse(empId, out var id))
             {
-                await context.Response.WriteAsync($"{employee.Name} : {employee.Position} \n");
+                var employee = EmployeeRepository.GetEmployee(id);
+                if (employee == null)
+                {
+                    context.Response.StatusCode = 404;
+                    await context.Response.WriteAsync("No matching employee detail found. \n");
+                    return;
+                }
+                else
+                {
+                    context.Response.StatusCode = 200;
+                    await context.Response.WriteAsync($"{employee.Name} : {employee.Position} \n");
+                }
+                return;
+            }
+            else
+            {
+                var employees = EmployeeRepository.GetEmployee();
+                foreach (var employee in employees)
+                {
+                    await context.Response.WriteAsync($"{employee.Name} : {employee.Position} \n");
+                }
             }
             return;
         }
@@ -26,7 +46,7 @@ app.Run(async (HttpContext context) =>
             var body = await reader.ReadToEndAsync();
             var employee = JsonSerializer.Deserialize<Employee>(body);
 
-            EmploeeRepository.AddEmployee(employee);
+            EmployeeRepository.AddEmployee(employee);
             context.Response.StatusCode = 201;
             return;
         }
@@ -37,7 +57,7 @@ app.Run(async (HttpContext context) =>
             var body = await reader.ReadToEndAsync();
             var employee = JsonSerializer.Deserialize<Employee>(body);
 
-            EmploeeRepository.UpdateEmployee(employee);
+            EmployeeRepository.UpdateEmployee(employee);
             return;
         }
 
@@ -48,7 +68,7 @@ app.Run(async (HttpContext context) =>
             {
                 if (context.Request.Headers["Authorization"] == "bob")
                 {
-                    var result = EmploeeRepository.DeleteEmployee(empId);
+                    var result = EmployeeRepository.DeleteEmployee(empId);
 
                     if (result)
                     {
@@ -109,7 +129,7 @@ app.Run(async (HttpContext context) =>
 app.Run();  // it start the castrol service and run the application in infinte loop, It makes the castorl service listen to incoming http request can convert it to httpcontext object. 
 
 
-static class EmploeeRepository
+static class EmployeeRepository
 {
     private static List<Employee> employees = new List<Employee>
     {
@@ -119,6 +139,11 @@ static class EmploeeRepository
     };
 
     public static List<Employee> GetEmployee() => employees;
+
+    public static Employee? GetEmployee(int id)
+    {
+        return employees.FirstOrDefault(e => e.Id == id);
+    }
 
     public static void AddEmployee(Employee? employee) 
     {  
